@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 
-For full documentation visit [mkdocs documentation](https://squidfunk.github.io/mkdocs-material).
+For full documentation visit [mkdocs](https://squidfunk.github.io/mkdocs-material).
 
 ## Commands
 
