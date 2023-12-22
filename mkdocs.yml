@@ -100,10 +100,11 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:<monkfishare@outlook.com>
   generator: false
-  
+  disqus: <Monkfishare>
     
 # Extensions
 markdown_extensions:
+  - meta
   - abbr
   - admonition
   - attr_list
