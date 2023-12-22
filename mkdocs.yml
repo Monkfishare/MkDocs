@@ -100,7 +100,7 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:<monkfishare@outlook.com>
   generator: false
-  disqus: <Monkfishare>
+  disqus: Monkfishare
     
 # Extensions
 markdown_extensions:
