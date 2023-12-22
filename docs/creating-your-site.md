@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Creating your site
 
 After you've [installed] Material for MkDocs, you can bootstrap your project
