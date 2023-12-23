@@ -93,6 +93,13 @@ plugins:
   - git-committers:
       repository: Monkfishare/MkDocs
       branch: main
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
   
 # Additional configuration
 extra:
