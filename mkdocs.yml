@@ -101,6 +101,7 @@ plugins:
       categories:
         - categories
         - tags
+  - roamlinks
   
 # Additional configuration
 extra:
