@@ -29,5 +29,6 @@ jobs:
             mkdocs-material \
             mkdocs-git-revision-date-localized-plugin \
             mkdocs-git-committers-plugin-2 \
-            mkdocs-rss-plugin
+            mkdocs-rss-plugin \
+            mkdocs-roamlinks-plugin
       - run: mkdocs gh-deploy --force
